@@ -10,7 +10,7 @@
   },
   "author": "ISL",
   "dependencies": {
-    "angular": "1.4.7",
+    "angular": "999.4.7",
     "angular-animate": "1.4.8",
     "angular-foundation": "0.8.0",
     "angular-resource": "1.4.8",
